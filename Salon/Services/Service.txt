@@ -1,0 +1,5 @@
+
+
+External API services  can be  written here like 
+	=>ISendMessageService
+	=>SendMessageService
